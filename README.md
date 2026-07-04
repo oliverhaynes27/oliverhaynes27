@@ -1,4 +1,5 @@
-## First-Year Mathematics and Computer Science student with an avid passion for coding. Primary Coding Languages: Python, Java
+## I'm currently worked on a [Java] File Management Project, in order to more easily monitor and keep track of file creation, modification, deflection, etc for specific Desktop folders.
+## My Primary Programming Languages are Python and Java, but I have completed SoloLearn coding courses to expand my knowledge of: Web Technologies (HTML, CSS, JavaScript), C, C++, SQL.
 
 <!--
 **oliverhaynes27/oliverhaynes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
