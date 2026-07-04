@@ -1,4 +1,4 @@
-## Hi there 👋
+## First-Year Mathematics and Computer Science student with an avid passion for coding. Primary Coding Languages: Python, Java
 
 <!--
 **oliverhaynes27/oliverhaynes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
